@@ -8,7 +8,7 @@ Menggunakan library **http** untuk pengambilan dan pengiriman data (JSON) ke API
 
 Menggunakan package **flutter_dotenv** untuk  menyimpan data sensitif seperti API key, URL basis data, dan konfigurasi lainnya secara terpisah di *environment variables*.
 
-[spasi][spasi]
+
 
 ## Getting Started
 
