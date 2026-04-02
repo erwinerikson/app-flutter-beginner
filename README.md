@@ -1,6 +1,14 @@
-# flutter_application_1
+# Flutter Application
 
-A new Flutter project.
+![Screenshot Aplikasi](screenshot_app.jpg)
+
+Aplikasi dibangun menggunakan **framework Flutter** untuk mengembangkan aplikasi *multi-platform* yang dikompilasi secara native.
+
+Menggunakan library **http** untuk pengambilan dan pengiriman data (JSON) ke API atau server.
+
+Menggunakan package **flutter_dotenv** untuk  menyimpan data sensitif seperti API key, URL basis data, dan konfigurasi lainnya secara terpisah di *environment variables*.
+
+[spasi][spasi]
 
 ## Getting Started
 
